@@ -1,0 +1,235 @@
+#body {
+
+    top: -25px;
+    position: relative;
+    overflow-x: hidden;
+    width: 1333px;
+    height: 2100px;
+    border: 0px solid white;
+}
+
+#btn{
+
+    margin-top: 20px;
+
+}
+
+#q1{
+    font-size: 28px;
+    font-weight: 12;
+    margin-top: 5px;
+    width: 1333px;
+    height: 150px;
+}
+
+
+#a1 {
+    width: 1333px;
+    height: 150px;
+    background-color: white;
+    float: left;
+}
+
+#a2 {
+    width: 1333px;
+    height: 75px;
+    background-color: #16b13a;
+    float: left;
+    
+    
+}
+
+
+#h2{
+
+    display: inline-flex;
+    list-style: none;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 470px;
+    margin-top: 30px ;
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+#h2 ul{
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    color: white;
+   
+    position: relative;
+    bottom: 22px;
+}
+
+#h2 ul li{
+
+    width: 110px;
+    margin: 0 -15px;
+    padding: 5px;
+}
+
+
+#a3 {
+    width: 1333px;
+    height: 75px;
+    background-color: white;
+    float: left;
+    
+}
+
+#h3{
+
+    display: inline-flex;
+    list-style: none;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 30px ;
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+#h3 ul{
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    color: black;
+   
+    position: relative;
+    bottom: 22px;
+}
+
+#h3 ul li{
+
+    width: 110px;
+    margin: 0 -15px;
+    padding: 5px;
+}
+
+#a4 {
+    width: 1333px;
+    height: 450px;
+    background-color: white;
+    float: left;
+    
+}
+
+#img{
+
+    width: 1333px;
+    height: 450px ;
+}
+
+#box1{
+     width: 442px;
+     height: 70px;
+     background-color: white;
+     float: left;
+     text-align: center;
+     top: -6px;
+     border: solid;
+     border-width: 0.1px;
+     border-color: lightgray; 
+     
+}
+ 
+
+#box2{
+    width: 442px;
+    height: 70px;
+    background-color: white;
+    float: left;
+    text-align: center;
+    border: solid;
+    border-width: 0.1px;
+    border-color: lightgray; 
+
+}
+
+
+#box3{
+    width: 443px; 
+    height: 70px;
+    background-color: white;
+    float: left;
+    text-align: center;
+    border: solid;
+    border-width: 0.1px;
+    border-color: lightgray; 
+
+}
+
+
+#a6 {
+    width: 1331px;
+    height: 230px;
+    background-color: white;
+    float: left;
+    border: solid;
+    border-width: 0.1px;
+    border-color: lightgray; 
+    
+}
+
+#img1{
+    width: 250px;
+    height: 180px;
+    margin-top: 25px;
+    margin-left: 20px;
+
+}
+
+#text1{
+
+    width: 1000px;
+    float: right;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+
+
+}
+
+#a7 { 
+    width: 1331px;
+    height: 230px;
+    background-color: white;
+    float: left;
+    border: solid;
+    border-width: 0.1px;
+    border-color: lightgray; 
+    
+}
+
+
+#img2{
+    width: 250px;
+    height: 180px;
+    margin-top: 25px;
+    margin-left: 20px;
+
+}
+
+#a8 {
+    width: 1331px;
+    height: 230px;
+    background-color: white;
+    float: left;
+    border: solid;
+    border-width: 0.1px;
+    border-color: lightgray; 
+    
+}
+
+#img3{
+    width: 250px;
+    height: 180px;
+    margin-top: 25px;
+    margin-left: 20px;
+
+}
